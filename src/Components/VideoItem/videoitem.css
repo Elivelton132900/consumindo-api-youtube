@@ -1,0 +1,9 @@
+.containervideoitem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.containervideoitem h3 {
+    margin-left: 10px;
+}

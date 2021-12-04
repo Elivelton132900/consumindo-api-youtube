@@ -1,0 +1,10 @@
+.videoList {
+    align-items: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.videoList h3 {
+    margin-left: 10px;
+    font-size: 14px;
+}

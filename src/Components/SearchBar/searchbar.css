@@ -1,0 +1,26 @@
+.searchBarContainerWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2%;
+}
+
+.searchbar {
+    width: 100%;
+}
+
+.labelSearch {
+    font-size: 20px;
+}
+
+.inputSearch {
+    margin-top: 1.5%;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 40%;
+    font-size: 18px;
+    padding: 2px 5px;
+    cursor: pointer;
+    text-align: left;
+}
+
